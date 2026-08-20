@@ -7,6 +7,10 @@
 
 `reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f`
 
+## Download Calculator
+
+`https://apps.microsoft.com/detail/9wzdncrfhvn5?hl=en-US&gl=IN`
+
 ## Chris Titus's Tool
 `irm https://christitus.com/win | iex`
 
